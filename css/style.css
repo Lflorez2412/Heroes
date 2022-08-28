@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;    
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header1{
+    background-color: #1CD1B0;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 10px 886px 10px 27px;
+    margin: 0px;
+    width: 1024px;
+    height: 38px;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
+h1{
+    background-color: #00669F;
+    font-weight: 400;
+    font-size: 40px;
+    padding: 28px 868px 26px 28px;
+    margin: 0px;
+    top: 38px;
+    left: 0px;
+    position: fixed;
+    width: 1024px;
+    height: 101px
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    
+}
+.C1, .C2, .C3{
+    position: relative;
+    top: 293px;      
+}
+.Batman{
+    position: absolute;
+    left: 32px;
+    display: inline-block;
+    width: 300px;
+    height: 527px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.Heart{
+    position: absolute;
+    left: 21px;
+    top: 15.88px;
+    Width: 30px;
+    Height: 26.25px;
+}
+.foto-perfil{
+    border-radius: 50%;
+    position: absolute;
+    left: 90px;
+    top: 128px;
+}
+.T1{
+    position: absolute;
+    left: 89px;
+    font-size: 30px;
+    text-align: center;
+    top: 266px;
+    line-height: 35px;
+    width: 122px;
+    height: 35px;
+    margin: 0px;
+    font-weight: 400;
+}
+p{
+    position: absolute;
+    top: 312px;
+    margin: 0px;
+    left: 16px;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: 'Roboto', sans-serif;
+    width: 267px;
+    height: 113px;
+    font-weight: 400;
+}
+a{
+    position: absolute;
+    left: 85px;
+    top: 462px;
+    background-color: #00669F;
+    color: white;
+    text-decoration: none;
+    padding: 15px 35.78px 15.42px 37px;    
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+.Harley{
+    position: absolute;
+    left: 362px;
+    display: inline-block;
+    width: 300px;
+    height: 527px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.T2{
+    position: absolute;
+    left: 65px;
+    font-size: 30px;
+    text-align: center;
+    top: 266px;
+    line-height: 35px;
+    width: 171px;
+    height: 35px;
+    margin: 0px;
+    font-weight: 400;
+}
+.Batman2{
+    position: absolute;
+    left: 692px;
+    display: inline-block;
+    width: 300px;
+    height: 527px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.T3{
+    position: absolute;
+    left: 89px;
+    font-size: 30px;
+    text-align: center;
+    top: 266px;
+    line-height: 35px;
+    width: 122px;
+    height: 35px;
+    margin: 0px;
+    font-weight: 400;
+}
+footer{
+    display: block;
+
+}
+footer p{
+    position: absolute;
+    top: 972px;
+    background-color: #00669F;
+    width: 1024px;
+    height: 51px;
+    left: 0px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFF9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
